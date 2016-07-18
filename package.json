@@ -1,0 +1,31 @@
+{
+  "name": "loopback-component-storage-oss",
+  "version": "1.0.0",
+  "description": "LoopBack Storage with ali-oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackwan84/loopback-component-storage-oss.git"
+  },
+  "keywords": [
+    "loopback",
+    "storage",
+    "ali-oss"
+  ],
+  "author": "Mac Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackwan84/loopback-component-storage-oss/issues"
+  },
+  "homepage": "https://github.com/mackwan84/loopback-component-storage-oss#readme",
+  "dependencies": {
+    "aliyun-oss-upload-stream": "^1.2.3",
+    "aliyun-sdk": "^1.9.3",
+    "busboy": "^0.2.13",
+    "lodash": "^4.13.1",
+    "moment": "^2.14.1"
+  }
+}

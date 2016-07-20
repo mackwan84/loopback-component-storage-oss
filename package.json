@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-storage-oss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LoopBack Storage with ali-oss",
   "main": "index.js",
   "scripts": {
